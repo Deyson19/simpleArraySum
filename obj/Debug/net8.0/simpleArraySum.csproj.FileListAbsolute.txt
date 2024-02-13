@@ -1,0 +1,14 @@
+d:\Developer\.NET\challenges\simpleArraySum\bin\Debug\net8.0\simpleArraySum.exe
+d:\Developer\.NET\challenges\simpleArraySum\bin\Debug\net8.0\simpleArraySum.deps.json
+d:\Developer\.NET\challenges\simpleArraySum\bin\Debug\net8.0\simpleArraySum.runtimeconfig.json
+d:\Developer\.NET\challenges\simpleArraySum\bin\Debug\net8.0\simpleArraySum.dll
+d:\Developer\.NET\challenges\simpleArraySum\bin\Debug\net8.0\simpleArraySum.pdb
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.AssemblyInfoInputs.cache
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.AssemblyInfo.cs
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.csproj.CoreCompileInputs.cache
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.dll
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\refint\simpleArraySum.dll
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.pdb
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\simpleArraySum.genruntimeconfig.cache
+d:\Developer\.NET\challenges\simpleArraySum\obj\Debug\net8.0\ref\simpleArraySum.dll
